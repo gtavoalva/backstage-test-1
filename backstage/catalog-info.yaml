@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: servicio-pagos
-  description: Servicio responsable de procesar transacciones financieras y tarjetas. Otro mensaje de prueba. 2026030_130000
+  description: Servicio responsable de procesar transacciones financieras y tarjetas. Otro mensaje de prueba. 2026030_130002
   annotations:
     # Esta anotación es crucial para que el Discovery Provider de GitHub lo encuentre
     github.com/project-slug: mi-gtavoalva/backstage-test-1
